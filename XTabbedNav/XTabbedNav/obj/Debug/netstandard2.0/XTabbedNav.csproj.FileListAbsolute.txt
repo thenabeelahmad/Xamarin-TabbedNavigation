@@ -1,0 +1,14 @@
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\bin\Debug\netstandard2.0\XTabbedNav.deps.json
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\bin\Debug\netstandard2.0\XTabbedNav.dll
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\bin\Debug\netstandard2.0\XTabbedNav.pdb
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.csproj.AssemblyReference.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\NewTab.xaml.g.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.AssemblyInfoInputs.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.AssemblyInfo.cs
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.dll
+C:\Users\Nabeel-Ahmad\RiderProjects\XTabbedNav\XTabbedNav\XTabbedNav\obj\Debug\netstandard2.0\XTabbedNav.pdb
